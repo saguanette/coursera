@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    background-color: #f7fffb;
+}
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+#navbar {
+    background-color: slateblue;
+}
+
+#dropdown {
+    float: right;
+    margin-top: 25px;
+}
+.dropdown-menu {
+   background-color: papayawhip;
+   width: 95vw;
+
+}
+
+#brand{
+    color: white;
+    font-family: cursive;
+    font-size: 32px;
+}
+.chicken{
+    padding-right: 5px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(253, 233, 154);
+}
+
+.beef {
+    border: 2px solid black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(205, 248, 200);
+    padding-right: 5px;
+}
+
+.sushi{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(241, 204, 238);
+    padding-right: 5px;
+}
+
+p{
+    padding: 5px;
+}
+
